@@ -1,0 +1,20 @@
+***GUIA TRADUÇÃO BS1 e BS2 VERSÃO DA STEAM***
+
+PRIMEIRAMENTE → Você precisa aplicar o patch que remove a censura do jogo:
+Patch BS1:
+https://otaku-plan.com/en/blacksouls_en/
+Patch BS2:
+https://otaku-plan.com/en/blacksouls2_en/
+
+Use este vídeo para fazer o processo: https://www.youtube.com/watch?v=n8MOqMobAdQ (Vídeo de GUIA VISUAL pro BS1 e BS2, método em si é o mesmo pros dois jogos)
+
+2. DEPOIS DISSO → precisamos remover a criptografia do arquivo Game.rgss3a:
+https://web.archive.org/web/20181205175452/http://www.mediafire.com/file/3ps81u5opyasn07/All+decrypter.rar
+
+Infelizmente não tenho um vídeo bom que ensine o programa além deste (vou ficar devendo nessa parte)
+https://www.youtube.com/watch?t=75&v=IVs5y-d0HB8 (só veja até o momento em que ele cria uma pasta chamada "extracted". A ideia é mostrar VISUALMENTE como o programa funciona)
+
+Essencialmente, você precisa usar o programa para extrair os arquivos de dentro do Game.rgss3a, no qual vai gerar uma pasta "Data" e uma pasta "Graphics" dentro de uma pasta nova chamada "extracted". PEGUE os arquivos de dentro dessa pasta e coloque eles onde fica o "Game.exe"
+Depois disso, delete o Game.rgss3a original. ***IMPORTANTE, NÃO ESQUEÇA DESSA PARTE.***
+
+3. FINALMENTE: copie e cole os arquivos da tradução dentro da pasta do jogo na Steam (Onde fica o arquivo "Game.exe")
