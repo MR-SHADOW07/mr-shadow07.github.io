@@ -1,0 +1,1 @@
+Aviso: Projeto pessoal inteiramente feito usando vibe coding com o único intuito de gerar um site público onde eu possa hospedar os meus projetos de tradução. Não recomendo usar nenhum código feito aqui.
